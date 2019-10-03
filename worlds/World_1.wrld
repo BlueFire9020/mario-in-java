@@ -1,0 +1,13 @@
+name:World 1
+gravity:1:15
+time:100
+size:50:10
+sprite:Rotating Block:0:0
+sprite:Rotating Block:16:0
+sprite:Rotating Block:16:16
+sprite:Rotating Block:48:16
+sprite:Rotating Block:16:48
+sprite:Rotating Block:32:32
+sprite:Rotating Block:128:0
+sprite:Exclamation Block:128:16
+sprite:Mystery Block:64:16
